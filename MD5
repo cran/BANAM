@@ -1,4 +1,4 @@
-d59692c75c2156d85a08fe1777843195 *DESCRIPTION
+770f0c6c30489d91a24b80482082232e *DESCRIPTION
 72811c55f14af5ad0637fc7e29e27b8c *NAMESPACE
 4711ed4f889be4155a637134a4498572 *R/BayesEstNAM.R
 1338653e222a29605e54a9a9accd42da *R/MargLikeNAM.R
@@ -17,4 +17,4 @@ f8abcab30dcde4642a13ef94bd4cfe6d *data/X_votes.csv
 9bedebaeec879afe7e3c1a3f3a95ae95 *man/figures/logo_BANAM.png
 7ea0afe3801adff829b5ab2b39a7fa6b *man/y_votes.Rd
 f7810133448f0576a70b2bdff03e39ce *tests/testthat.R
-ecc9fe5dbf75a529fec5c7b9961a43cc *tests/testthat/test_banam.R
+55935025cb4a2530fb79f1578b127005 *tests/testthat/test_banam.R

@@ -1,8 +1,8 @@
 Package: BANAM
 Type: Package
-Date: 2024-06-20
+Date: 2024-12-03
 Title: Bayesian Analysis of the Network Autocorrelation Model
-Version: 0.2.1
+Version: 0.2.2
 Authors@R: c(person(given = "Joris",
              family = "Mulder",
              role = c("aut", "cre"),
@@ -40,9 +40,9 @@ Imports: Matrix, extraDistr, matrixcalc, mvtnorm, rARPACK, tmvtnorm,
         utils, psych, sna, bain
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2024-06-20 10:13:51 UTC; jorismulder
+Packaged: 2024-12-03 10:09:58 UTC; jorismulder
 Author: Joris Mulder [aut, cre],
   Dino Dittrich [aut, ctb],
   Roger Leenders [aut, ctb]
 Repository: CRAN
-Date/Publication: 2024-06-20 10:30:02 UTC
+Date/Publication: 2024-12-03 10:30:02 UTC
