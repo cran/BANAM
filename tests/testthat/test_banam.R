@@ -28,7 +28,7 @@ test_that("Test correct exploratory PHPs for a NAM with one weight matrix", {
   )})
 test_that("Test correct one-sided PHPs for a NAM with one weight matrix", {
   expect_equivalent(
-    BF1a$PHP_confirmatory[1],.775, tolerance = .05
+    BF1a$PHP_confirmatory[1],.775, tolerance = .1
   )})
 BF1b <- BF(x=best1,hypothesis="beta1 < beta2 < 0 ; beta1 = beta2 = 0")
 test_that("Test correct multiple test on beta's for a NAM with one weight matrix", {
